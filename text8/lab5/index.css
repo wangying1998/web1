@@ -1,0 +1,14 @@
+.special{
+	font-family:'微软雅黑';
+	font-size:16px;
+	color:#65a7d0;
+	font-weight: bold;
+}
+.list{
+	list-style-type: disc;
+}
+.bj{
+	background-image: url(../images/foot_bg.gif);
+	background-repeat: repeat-x;
+	width: 100%;
+}

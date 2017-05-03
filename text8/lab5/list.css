@@ -1,0 +1,32 @@
+.left{
+	font-size: 14px;
+	list-style-image: url(../images/1.jpg);
+}
+a:hover{
+	color: #b9f605;
+}
+.list{
+	font-size: 14px;
+	list-style-type: disc;
+}
+h3{
+	background-image: url(../images/menutitle.gif);
+	height: 35px;
+	width: 200px;
+}
+h4{
+	font-family:'黑体';
+	font-size:1.5em;
+}
+.page1{
+	background-image: url(../images/pagebg.gif);
+	
+}
+.page2{
+	background-image: url(../images/pagebg_1.gif);
+	
+}
+.page3{
+	background-image: url(../images/pre.gif);
+	
+}
