@@ -1,0 +1,74 @@
+*{
+	margin: 0 auto;
+	padding: 0;
+	list-style-type: none;
+	font-family: "微软雅黑";
+}
+/*头部*/
+#head{
+	width: 100%;
+	height: 85px;
+	background-image: url(../image/navbg.jpg);
+}
+.logo{
+	position: absolute;
+	left: 60px;
+}
+ul{
+	background-repeat: repeat-x;
+	height: 40px;
+	float: right;
+	margin-top: 40px;
+}
+ul li{
+	font-weight: bold;
+	display: inline;
+}
+ul li a:link{
+	color: white;
+	text-decoration: none;
+}
+ul li a:hover{
+	color: red;
+}
+ul li a:visited{
+	color: white;
+}
+
+/*中间*/
+#mid img{
+	width: 100%;
+}
+.text{
+	margin-left: 150px;
+	position: absolute;
+	top: 450px;
+}
+h2{
+	font-size: 60px;
+	font-family:"华文行楷"; 
+	color: #ca9c82;
+}
+h4 a:link{
+	margin-left: 50px;
+	font-size: 30px;
+	font-family:"幼圆"; 
+	color: white;
+	text-decoration: none;
+}
+h4 a:hover{
+	color: #2c99ed;
+	text-decoration: underline;
+}
+h4 a:visited{
+	color: white;
+}
+.blank1{
+	padding-left: 50px;
+}
+.blank2{
+	padding-left: 100px;
+}
+.blank3{
+	padding-left: 150px;
+}
